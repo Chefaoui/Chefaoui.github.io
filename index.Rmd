@@ -1,5 +1,5 @@
 ---
-title: "**ROSA M. CHEFAOUI**"
+title: "**ROSA M. CHEFAOUI, PhD**"
 output: 
   html_document: 
     highlight: espresso
