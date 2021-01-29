@@ -1,0 +1,13 @@
+---
+title: "Code in R"
+output: 
+  html_document: 
+    highlight: espresso
+    theme: flatly
+    toc: yes
+    toc_float: yes
+
+code_download: TRUE
+---
+
+coming soon
