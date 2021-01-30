@@ -16,6 +16,7 @@ code_download: TRUE
 
 <img src="files/Screenshot 59.png" style="width:70%">
 
+***
 
 + Dataset of occurrences compiled for *Cymodocea nodosa*. Published as [Supporting Information - Table S1](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401) of the manuscript entitled "Dramatic loss of seagrass habitat under projected climate change in the Mediterranean Sea".
 
