@@ -2,8 +2,8 @@
 title: "**ROSA M. CHEFAOUI, PhD**"
 output: 
   html_document: 
-    highlight: espresso
     theme: flatly
+    highlight: espresso
     toc: yes
     toc_float: yes
 
