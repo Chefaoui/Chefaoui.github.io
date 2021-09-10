@@ -4,8 +4,8 @@ output:
   html_document: 
     theme: flatly
     highlight: espresso
-    toc: yes
-    toc_float: yes
+    toc: true
+    toc_float: true
 
 footer.html:
   <p>Copyright &copy; 2021 Skynet, Inc. All rights reserved.</p>
