@@ -1,0 +1,50 @@
+
+
+name: "Rosa M. Chefaoui, PhD"
+navbar:
+  title: "Rosa M. Chefaoui"
+  
+ 
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: Research.html
+    - text: "Outreach"
+      href: Outreach.html
+    - text: "Projects"
+      href: Projects.html
+      menu:
+        - text: "Research Projects"
+        - text: "MarHot"
+          href: MarHot.html
+        - text: "Phymacro"
+          href: Phymacro.html
+        
+    - text: "Open source"
+      href: Open source.html
+      menu:
+        - text: "Open Datasets"
+          href: Datasets.html
+        - text: "---------"
+        - text: "Open source R code"
+          href: Code.html
+       # - text: "Packages"
+       #   href: Packages.html
+  left:
+    - # text: mail
+      icon: fa-envelope fa-lg # use the fa-lg (33% increase), fa-2x, fa-3x, fa-4x, or fa-5x classes
+      href: mailto:<rosa.chef@gmail.com>
+    - icon: fab fa-github fa-lg
+      href: https://github.com/Chefaoui
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/RosaChefaoui
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=gqAKNXcAAAAJ&hl=es
+      
+
+  output:
+    html_document:
+      # css: bootstrap.css
+      theme: darkly
+      highlight: kate

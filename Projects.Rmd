@@ -1,0 +1,10 @@
+---
+title: "My Website"
+---
+    
+Hello, Website! Welcome to the world.
+
+
+<!-- <img src="files/john.jpg" style="width:50%"> -->
+
+<!-- This is Pete. -->

@@ -1,0 +1,17 @@
+---
+title: "Code in R"
+output: 
+  html_document: 
+    highlight: espresso
+    theme: flatly
+    toc: yes
+    toc_float: yes
+
+code_download: TRUE
+---
+
++ R scripts to reproduce analyses and figures of:
+
+Chefaoui, R.M. 2021. Seasonal variations of waterbird ecological networks under different saltpans management. Ecological Informatics, 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364 
+
+R scripts available in gitHub: https://github.com/Chefaoui/Chefaoui_2021
