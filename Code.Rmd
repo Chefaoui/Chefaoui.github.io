@@ -17,4 +17,4 @@ code_download: TRUE
 
 + Analyses and figures of: Chefaoui, R.M. 2021. Seasonal variations of waterbird ecological networks under different saltpans management. Ecological Informatics, 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364 
 
-R scripts available in gitHub: https://github.com/Chefaoui/Chefaoui_2021
+R scripts available in **gitHub**: https://github.com/Chefaoui/Chefaoui_2021

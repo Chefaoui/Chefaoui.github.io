@@ -16,7 +16,7 @@ navbar:
     - text: "Projects"
       href: Projects.html
       menu:
-        - text: "Research Projects"
+        - text: "Recent EU funded Projects"
         - text: "MarHot"
           href: MarHot.html
         - text: "Phymacro"

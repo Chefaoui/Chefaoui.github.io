@@ -10,6 +10,27 @@ output:
 
 ***
 
+## New paper out!
+
+
+<img src="files/E6KCmQzWQAMBa21.jpeg" style="width:80%">
+
+
+The findings enhance the role of the active saltpans located in the Ria Formosa Natural Park (Algarve, Portugal) as a key site for the conservation of resident and migratory waterbirds.
+
+This research explores the spatial and temporal dynamics of coastal communities. I used Bipartite ecological networks to model relations between the bird species and surveyed saltpans. It was an useful approach to integrate ecologically meaningful zero count data.
+
+<img src="files/E6KEdQAXIAAY1Ki.png" style="width:80%">
+
+Data and R script to reproduce the analyses and figures are available in my GitHub page:
+https://github.com/Chefaoui/Chefaoui_2021
+
+
+You can check the publication here:
+
+Seasonal variations of waterbird ecological networks under different saltpans management. *Ecological Informatics* 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364
+
+---
 ## Webinar Humboldt Day
 
 The International Biogeography Society (IBS) hosted the International Humboldt Day during the week surrounding September 14th 2020. IBS invited [MadresBDV](https://www.usc.gal/gl/investigacion/proxectos/madresbdv/somos.html) to organize an event. Carola, Esther, Elena, Sara, Marta and I organized the event: [“Finding ways to feature and support more Women in Biogeography“](https://www.humboldtday.org/event/finding-ways-to-feature-and-support-more-women-in-biogeography/?wcs_timestamp=1600095635).

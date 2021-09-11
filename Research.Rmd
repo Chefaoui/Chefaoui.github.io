@@ -8,78 +8,81 @@ output:
     toc_float: yes
 ---
 
+Publications ordered by thematic lines. To see all publications chronologically ordered, please check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=gqAKNXcAAAAJ&view_op=list_works&sortby=pubdate).
+
+^e^ for equal contribution as first author
+
+*(Last update: Sept 2021)*
+
 ***
 ## Mechanistic models applied to climate change studies
 
-Chefaoui, R.M., Serebryakova, A., Engelen, A.H., Viard, F., Serrão, E.A. 2019. Integrating reproductive phenology in ecological niche models changed the predicted future ranges of a marine invader. Diversity and Distributions https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12910
+**Chefaoui, R.M.**^e^, Serebryakova, A.^e^, Engelen, A.H., Viard, F., Serrão, E.A. 2019. Integrating reproductive phenology in ecological niche models changed the predicted future ranges of a marine invader. *Diversity and Distributions* 25:688-700 https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12910
 
 ***
 
 ## Patterns of genetic diversity and range shifts of marine species
 
 
-Chefaoui, R.M., Duarte, C.M., Serrão, E. 2018. Dramatic loss of seagrass habitat under projected climate change in the Mediterranean Sea. Global Change Biology 24: 4919-4928 https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401
+**Chefaoui, R.M.**, Duarte, C.M., Serrão, E. 2018. Dramatic loss of seagrass habitat under projected climate change in the Mediterranean Sea. *Global Change Biology* 24: 4919-4928 https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401
 
-Bermejo R, Chefaoui RM, Engelen AH, Buonomo R, Neiva J, Ferreira-Costa J, Pearson GA, Marbá N, Duarte CM, Airoldi L, Hernandez I, Guiry MD, Serrao EA   (2018)  Marine forests of the Mediterranean-Atlantic Cystoseira tamariscifolia complex show a southern Iberian genetic hotspot and no reproductive isolation in parapatry. Scientific Reports 8:10427; https://www.nature.com/articles/s41598-018-28811-1.
+Bermejo R, **Chefaoui R.M**, Engelen AH, Buonomo R, Neiva J, Ferreira-Costa J, Pearson GA, Marbá N, Duarte CM, Airoldi L, Hernandez I, Guiry MD, Serrao EA   (2018)  Marine forests of the Mediterranean-Atlantic *Cystoseira tamariscifolia* complex show a southern Iberian genetic hotspot and no reproductive isolation in parapatry. *Scientific Reports* 8:10427; https://www.nature.com/articles/s41598-018-28811-1.
 
-Buonomo R., Chefaoui, R.M., Bermejo, R., Engelen, A.H., Airoldi, L., Serrão, E.A. 2018. Predicted extinction of unique genetic diversity in marine forests of Cystoseira spp. Marine Environmental Research, 138: 119-128. https://doi.org/10.1016/j.marenvres.2018.04.013
+Buonomo R., **Chefaoui, R.M.**, Bermejo, R., Engelen, A.H., Airoldi, L., Serrão, E.A. 2018. Predicted extinction of unique genetic diversity in marine forests of *Cystoseira* spp. *Marine Environmental Research* 138: 119-128. https://doi.org/10.1016/j.marenvres.2018.04.013
 
-Chefaoui, R.M., Varela-Álvarez, E. 2018. Niche conservatism and spread of seaweed invasive lineages with different residence time in the Mediterranean Sea. Biological Invasions, 20: 423-435. https://doi.org/10.1007/s10530-017-1544-8
+**Chefaoui, R.M.**, Varela-Álvarez, E. 2018. Niche conservatism and spread of seaweed invasive lineages with different residence time in the Mediterranean Sea. *Biological Invasions* 20: 423-435. https://doi.org/10.1007/s10530-017-1544-8
 
-Chefaoui, R.M., Casado-Amezúa, P. & Templado, J. 2017. Environmental drivers of distribution and reef development of the Mediterranean coral Cladocora caespitosa. Coral Reefs, 36: 1195–1209. https://doi.org/10.1007/s00338-017-1611-8
+**Chefaoui, R.M.**, Casado-Amezúa, P. & Templado, J. 2017. Environmental drivers of distribution and reef development of the Mediterranean coral *Cladocora caespitosa*. *Coral Reefs* 36: 1195–1209. https://doi.org/10.1007/s00338-017-1611-8
 
-Lourenço, C.R., Nicastro, K.R., McQuaid, C.D., Chefaoui, R.M., Assis, J., Taleb, M.Z., & Zardi, G.I. 2017. Evidence for rangewide panmixia despite multiple barriers to dispersal in a marine mussel. Scientific Reports, 7(1):10279. https://www.nature.com/articles/s41598-017-10753-9
+Lourenço, C.R., Nicastro, K.R., McQuaid, C.D., **Chefaoui, R.M.**, Assis, J., Taleb, M.Z., & Zardi, G.I. 2017. Evidence for rangewide panmixia despite multiple barriers to dispersal in a marine mussel. *Scientific Reports* 7(1):10279. https://www.nature.com/articles/s41598-017-10753-9
 
-Chefaoui, R.M. & Serrão E.A. 2017. Accounting for uncertainty in predictions of a marine species: integrating population genetics to verify past distributions. Ecological Modelling, 359: 229-239. http://www.sciencedirect.com/science/article/pii/S0304380016304215
+**Chefaoui, R.M.** & Serrão E.A. 2017. Accounting for uncertainty in predictions of a marine species: integrating population genetics to verify past distributions. *Ecological Modelling* 359: 229-239. http://www.sciencedirect.com/science/article/pii/S0304380016304215
 
-Chefaoui, R.M., Duarte, C.M., Serrão, E. 2017. Palaeoclimatic conditions in the Mediterranean explain genetic diversity of Posidonia oceanica seagrass meadows. Scientific Reports, 7(1), 2732.  https://www.nature.com/articles/s41598-017-03006-2
+**Chefaoui, R.M.**, Duarte, C.M., Serrão, E. 2017. Palaeoclimatic conditions in the Mediterranean explain genetic diversity of *Posidonia oceanica* seagrass meadows. *Scientific Reports* 7(1), 2732.  https://www.nature.com/articles/s41598-017-03006-2
 
-Chefaoui, R.M., Assis J., Duarte C.M., Serrão E. 2016. Large-scale prediction of
+**Chefaoui, R.M.**, Assis J., Duarte C.M., Serrão E. 2016. Large-scale prediction of
 seagrass distribution integrating landscape metrics and environmental factors: the
-case of Cymodocea nodosa (Mediterranean-Atlantic). Estuaries and Coasts 39:
+case of *Cymodocea nodosa* (Mediterranean-Atlantic). *Estuaries and Coasts* 39:
 123-137. DOI:10.1007/s12237-015-9966-y
 
 
 ****
 ## Spatial and temporal dynamics of coastal communities
 
-Chefaoui, R.M. 2021. Seasonal variations of waterbird ecological networks under different saltpans management. Ecological Informatics, 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364 
+**Chefaoui, R.M.** 2021. Seasonal variations of waterbird ecological networks under different saltpans management. *Ecological Informatics* 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364 
 
-Chefaoui, R.M., Chozas, S. 2019. Abandonment of traditional saltworks facilitates degradation of halophytic plant communities and Carpobrotus edulis invasion. Applied Vegetation Science https://onlinelibrary.wiley.com/doi/abs/10.1111/avsc.12436
+**Chefaoui, R.M.**, Chozas, S. 2019. Abandonment of traditional saltworks facilitates degradation of halophytic plant communities and *Carpobrotus edulis* invasion. *Applied Vegetation Science* 22:444-453. https://onlinelibrary.wiley.com/doi/abs/10.1111/avsc.12436
 
-Chozas, S., Chefaoui, R.M., Correia, O., Bonal R., Hortal J. 2017. Environmental
+Chozas, S., **Chefaoui, R.M.**, Correia, O., Bonal R., Hortal J. 2017. Environmental
 niche divergence among three dune shrub sister species with parapatric distributions.
-Annals of Botany, 119: 1157–1167. DOI: https://doi.org/10.1093/aob/mcx004
+*Annals of Botany* 119: 1157–1167. DOI: https://doi.org/10.1093/aob/mcx004
 
-Chefaoui, R.M., Chozas, S., Correia, O., Santos, A. M. C., and Hortal, J., 2016. Using niche models of indicator species to predict the distribution of xerophytic shrub dune communities. Web Ecology, 16, 47-49, doi:10.5194/we-16-47-2016. URL: http://www.web-ecol.net/16/47/2016/
+**Chefaoui, R.M.**, Chozas, S., Correia, O., Santos, A. M. C., and Hortal, J., 2016. Using niche models of indicator species to predict the distribution of xerophytic shrub dune communities. *Web Ecology* 16: 47-49, doi:10.5194/we-16-47-2016. URL: http://www.web-ecol.net/16/47/2016/
 
 
-Chefaoui, R.M. 2014. Landscape metrics as indicators of coastal morphology: A
-multiscale approach. Ecological Indicators 45: 139-147. http://dx.doi.org/10.1016/j.ecolind.2014.04.004
+**Chefaoui, R.M.** 2014. Landscape metrics as indicators of coastal morphology: A
+multiscale approach. *Ecological Indicators* 45: 139-147. http://dx.doi.org/10.1016/j.ecolind.2014.04.004
 
 
 ****
 ## Ecological niche modelling
 
 
-Chefaoui, R., Lobo, J.M. and Hortal, J. 2011. Effects of species’ traits and data characteristics on distribution models of threatened invertebrates. Animal Biodiversity
-and Conservation 34(2): 229-247. http://www.raco.cat/index.php/ABC/article/view/248916
+**Chefaoui, R.M.**, Lobo, J.M. and Hortal, J. 2011. Effects of species’ traits and data characteristics on distribution models of threatened invertebrates. *Animal Biodiversity and Conservation* 34(2): 229-247. http://www.raco.cat/index.php/ABC/article/view/248916
 
-Chefaoui, R. and Lobo, J.M. 2008. Assessing the effects of pseudo-absences on
-predictive distribution model performance. Ecological Modelling 210: 478-486.
+**Chefaoui, R.M.** and Lobo, J.M. 2008. Assessing the effects of pseudo-absences on
+predictive distribution model performance. *Ecological Modelling* 210: 478-486.
 http://dx.doi.org/10.1016/j.ecolmodel.2007.08.010
 
-Chefaoui, R. and Lobo, J.M. 2007. Assessing the conservation status of an Iberian
-endangered moth using a “pseudoabsence” model of explanatory variables relevant
-to its distribution. Journal of Wildlife Management 71: 2507-2516. DOI:
-10.2193/2006-312
+**Chefaoui, R.M.** and Lobo, J.M. 2007. Assessing the conservation status of an Iberian
+moth using pseudo-absences. *Journal of Wildlife Management* 71: 2507-2516. https://wildlife.onlinelibrary.wiley.com/doi/abs/10.2193/2006-312
 
-Chefaoui, R.M., Hortal, J. and Lobo, J.M. 2005. Potential distribution modelling,
-niche characterization and conservation status of Iberian Copris species in central
-Spain. Biological Conservation 122: 327-338. http://dx.doi.org/10.1016/j.biocon.
+**Chefaoui, R.M.**, Hortal, J. and Lobo, J.M. 2005. Potential distribution modelling,
+niche characterization and conservation status of Iberian *Copris* species in central
+Spain. *Biological Conservation* 122: 327-338. http://dx.doi.org/10.1016/j.biocon.
 2004.08.005
 
-Hortal, J., Borges, P.A.V., Dinis, F., Jiménez-Valverde, A., Chefaoui, R.M., Lobo,
+Hortal, J., Borges, P.A.V., Dinis, F., Jiménez-Valverde, A., **Chefaoui, R.M.**, Lobo,
 J.M., Jarroca, S., Azevedo, E.B., Rodrigues, C., Madruga, J., Pinheiro, J., Gabriel,
 R., Cota Rodrigues, F., and Pereira, A.R. 2005. Using ATLANTIS – Tierra 2.0 and
 GIS environmental information to predict the spatial distribution and habitat suitability
@@ -90,12 +93,12 @@ by P.A.V. Borges, R. Cunha, R. Gabriel, A.F. Martins, L. Silva and V. Vieira), p
 do Heroísmo and Ponta Delgada. http://hdl.handle.net/10400.3/1911.
 
 
-Chefaoui, R.M., Hosseinzadeh, M.S., Mashayekhi, M., Safaei-Mahroo, B., Kazemi, S.M. 2018. Identifying suitable habitats and current conservation status of a rare and elusive reptile in Iran. Amphibia-Reptilia, 39: 355-362. doi: 10.1163/15685381-17000185
+**Chefaoui, R.M.**, Hosseinzadeh, M.S., Mashayekhi, M., Safaei-Mahroo, B., Kazemi, S.M. 2018. Identifying suitable habitats and current conservation status of a rare and elusive reptile in Iran. *Amphibia-Reptilia* 39: 355-362. doi: 10.1163/15685381-17000185. https://brill.com/view/journals/amre/39/3/article-p355_9.xml?rskey=Xv4Gqb&result=2
 
 
-Madeira, P.M., Chefaoui, R.M., Cunha, R.L., Moreira, F., Dias, S., Calado, G., Castilho,
+Madeira, P.M., **Chefaoui, R.M.**, Cunha, R.L., Moreira, F., Dias, S., Calado, G., Castilho,
 R. 2017. High unexpected genetic diversity of a narrow endemic terrestrial mollusc.
-PeerJ 5:e3069 https://peerj.com/articles/3069/
+*PeerJ* 5:e3069 https://peerj.com/articles/3069/
 
 ****
 
