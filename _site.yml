@@ -1,6 +1,7 @@
 
 
 name: "Rosa M. Chefaoui, PhD"
+output_dir: "."
 navbar:
   title: "Rosa M. Chefaoui"
   
@@ -45,6 +46,6 @@ navbar:
 
   output:
     html_document:
-      # css: bootstrap.css
+      #  css: bootstrap.css
       theme: darkly
       highlight: kate
