@@ -45,6 +45,6 @@ navbar:
 
   output:
     html_document:
-      css: bootstrap.css
+      #  css: bootstrap.css
       theme: darkly
       highlight: kate
