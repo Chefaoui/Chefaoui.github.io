@@ -1,6 +1,7 @@
 
 
 name: "Rosa M. Chefaoui, PhD"
+output_dir: "."
 navbar:
   title: "Rosa M. Chefaoui"
   
