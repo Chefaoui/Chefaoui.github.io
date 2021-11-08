@@ -20,6 +20,8 @@ Data are freely available for use. Its reuse in scientific publications, reports
 
 ***
 
++ Dataset of occurrences of seagrass species used in the paper: Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin driven by climate change. Published as Supplementary data (Appendix A). Check Supplementary material [here](https://www.sciencedirect.com/science/article/pii/S2351989421004406?via%3Dihub)
+
 + Raw abundance waterbird data surveyed in saltpans of Ria Formosa during four seasons. Published as Supplementary data (Appendix A) in ["Seasonal variations of waterbird ecological networks under different saltpans management"](https://www.sciencedirect.com/science/article/pii/S1574954121001552#s0075).
 
 + Dataset of occurrences compiled for *Cymodocea nodosa*. Published as [Supporting Information - Table S1](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401) of the manuscript entitled "Dramatic loss of seagrass habitat under projected climate change in the Mediterranean Sea".
