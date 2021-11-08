@@ -17,7 +17,7 @@ footer.html:
 
 <img src="files/DSC_1620.JPG" style="width:50%">
 
-I am currently a Marie Skłodowska-Curie postdoctoral fellow at the Universidad Rey Juan Carlos (Madrid, Spain). I am leading the European Union's Horizon 2020 funded **project MarHot**. This project will provide an innovative framework to integrate physiological thermal limits into species distribution models in order to anticipate future redistributions of marine coastal species. Find out more about MarHot [here](https://chefaoui.github.io/MarHot.html).
+I am an ecologist focused on marine, coastal and terrestrial environments. I am currently a Marie Skłodowska-Curie postdoctoral fellow at the Universidad Rey Juan Carlos (Madrid, Spain). I am interested in the effects of climate change on marine benthic species, from genetic diversity to spatial and temporal dynamics of communities. I am also interested in the application of multidisciplinary approaches involving physiological experiments, field surveys and varied analytical methods. I am leading the European Union's Horizon 2020 funded **project MarHot**. This project will provide an innovative framework to integrate physiological thermal limits into species distribution models in order to anticipate future redistributions of marine coastal species. Find out more about MarHot [here](https://chefaoui.github.io/MarHot.html).
 
 ***
 ## **Short CV**
