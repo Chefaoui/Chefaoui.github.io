@@ -1,5 +1,5 @@
 ---
-title: "**Outreach**"
+title: "**NEWS**"
 output: 
   html_document: 
     highlight: espresso
@@ -10,7 +10,24 @@ output:
 
 ***
 
-## New paper out!
+---
+
+## 2/11/2021: Paper on the future of seagrasses in Banc d'Arguin (Mauritania)
+
+Seagrass meadows in Banc d’Arguin (Mauritania), one of the largest in the world, can suffer a regime shift along the 21st century due to increasing sea temperatures and sea level rise with climate change.
+
+We produced a fine scale Digital Elevation Model (DEM) by coupling bathymetric and elevation data from different sources using rstats, QGIS and SAGA to estimate the vertical niche for each species conditioned by future sea level rise.
+
+We forecast a contraction of the temperate *Cymodocea nodosa* (widest and largest leaves) and *Zostera noltei* (the one with thickest meadows) at their trailing (southern) edges, whereas the tropical *Halodule wrightii* (thin and sparse) would experience a northward expansion beyond its current northern edge at the Gulf of Arguin.
+
+
+You can check more here:
+
+Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin driven by climate change *Global Ecology and Conservation* 32: e01890. https://www.sciencedirect.com/science/article/pii/S2351989421004406?via%3Dihub
+
+---
+
+## 1/09/2021: Paper on waterbird ecological networks
 
 
 <img src="files/E6KCmQzWQAMBa21.jpeg" style="width:80%">
@@ -33,9 +50,12 @@ Seasonal variations of waterbird ecological networks under different saltpans ma
 ---
 ## Webinar Humboldt Day
 
-The International Biogeography Society (IBS) hosted the International Humboldt Day during the week surrounding September 14th 2020. IBS invited [MadresBDV](https://www.usc.gal/gl/investigacion/proxectos/madresbdv/somos.html) to organize an event. Carola, Esther, Elena, Sara, Marta and I organized the event: [“Finding ways to feature and support more Women in Biogeography“](https://www.humboldtday.org/event/finding-ways-to-feature-and-support-more-women-in-biogeography/?wcs_timestamp=1600095635).
+The International Biogeography Society (IBS) hosted the International Humboldt Day during the week surrounding September 14th 2020. IBS invited [MadresBDV](https://www.usc.gal/gl/investigacion/proxectos/madresbdv/somos.html) to organize an event. Carola, Esther, Elena, Sara, Marta and I organized the event: “Finding ways to feature and support more Women in Biogeography“.  
 
 We had speakers from different scientific areas related to Biogeography: Maria Dornelas, Christine Meynard, Anna Traveset and Kathy Willis. The webinar was recorded, so you can see it again.
+
+You can watch the video [here](https://www.youtube.com/watch?v=E1wi5yhx5Y8&ab_channel=InternationalHumboldtDay).
+
 
 <img src="files/image_webinar.png" style="width:80%">
 
