@@ -12,10 +12,12 @@ Publications ordered by thematic lines. To see all publications chronologically 
 
 ^e^ for equal contribution as first author
 
-*(Last update: Sept 2021)*
+*(Last update: Jan 2022)*
 
 ***
 ## Mechanistic models applied to climate change studies
+
+Wesselmann^e^, M., **Chefaoui, R.M.**^e^, Marbà N., Serrão E.A., Duarte C.M. 2021. Warming threatens to propel the expansion of the exotic seagrass *Halophila stipulacea*. *Frontiers in Marine Science*, 8:759676. [doi: 10.3389/fmars.2021.759676](https://www.frontiersin.org/articles/10.3389/fmars.2021.759676/full)
 
 **Chefaoui, R.M.**^e^, Serebryakova, A.^e^, Engelen, A.H., Viard, F., Serrão, E.A. 2019. Integrating reproductive phenology in ecological niche models changed the predicted future ranges of a marine invader. *Diversity and Distributions* 25:688-700 https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12910
 
