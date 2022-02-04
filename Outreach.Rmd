@@ -20,7 +20,7 @@ We produced a fine scale Digital Elevation Model (DEM) by coupling bathymetric a
 
 We forecast a contraction of the temperate *Cymodocea nodosa* (widest and largest leaves) and *Zostera noltei* (the one with thickest meadows) at their trailing (southern) edges, whereas the tropical *Halodule wrightii* (thin and sparse) would experience a northward expansion beyond its current northern edge at the Gulf of Arguin.
 
-<img src="files/afr.jpeg" style="width:80%">
+<img src="files/afr.jpeg" style="width:40%">
 
 You can check more here:
 
