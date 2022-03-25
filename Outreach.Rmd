@@ -9,10 +9,33 @@ output:
 ---
 
 ***
+---
+## Speaker at the IBS VANCOUVER 2022
+
+<img src="files/Ibs.png" style="width:95%">
+
+<img src="files/sym_ibs.png" style="width:95%">
+
+IBS Vancouver 2022 is the [10th Biennial Conference of the International Biogeography Society](https://web.cvent.com/event/437755ba-3761-4eea-9c20-aca221ba457d/summary)
+
+Very happy to have been invited as speaker to the CHANGING OCEAN ECOLOGY AND BIOGEOGRAPHY
+Symposium and have the opportunity to exchange ideas with such amazing marine ecologists.
+
 
 ---
 
-## 2/11/2021: Paper on the future of seagrasses in Banc d'Arguin (Mauritania)
+## MADRID ES CIENCIA (IFEMA, Madrid, 2-5 March 2022)
+
+The Area of Biodiversity and Conservation (Biodiversos) was at the stand of the University Rey Juan Carlos and we could explain our research to many students.
+
+<img src="files/DSC_3118.JPG" style="width:95%">
+
+**MarHot** research was shown in a video exhibited... see more [here](https://chefaoui.github.io/MarHot.html)
+
+
+---
+
+## Paper on the future of seagrasses in Banc d'Arguin (Mauritania)
 
 Seagrass meadows in Banc d’Arguin (Mauritania), one of the largest in the world, can suffer a regime shift along the 21st century due to increasing sea temperatures and sea level rise with climate change.
 
@@ -28,7 +51,7 @@ Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin driven by
 
 ---
 
-## 1/09/2021: Paper on waterbird ecological networks
+## Paper on waterbird ecological networks
 
 
 <img src="files/E6KCmQzWQAMBa21.jpeg" style="width:80%">
