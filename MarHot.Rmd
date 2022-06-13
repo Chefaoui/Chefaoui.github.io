@@ -21,6 +21,21 @@ This project is developed at the University Rey Juan Carlos (Madrid, Spain) in c
 
 ---
 
++ **MarHot in #IBSVancouver2022**
+
+Some preliminary results from MarHot were presented at the IBS Vancouver 2022, the [10th Biennial Conference of the International Biogeography Society](https://web.cvent.com/event/437755ba-3761-4eea-9c20-aca221ba457d/summary).
+
+Results were presented during the CHANGING OCEAN ECOLOGY AND BIOGEOGRAPHY Symposium organized by Mary O'Connor. 
+
+<img src="files/IBS2.png" style="width:90%">
+
+It was a great pleasure to be among relevant leaders of the marine research (John Grady, Amanda Bates, Chris Harley, Lauren Schiebelhut, Sergio Navarette, and Catalina Pimiento) and discuss with them.
+
+<img src="files/IBS1.png" style="width:90%">
+
+
+---
+
 + **MarHot in 'Madrid es Ciencia'**
 
 'Madrid es Ciencia' is a comprehensive exhibition of scientific-technological innovation in the Community of Madrid. 

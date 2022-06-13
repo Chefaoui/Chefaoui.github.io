@@ -13,8 +13,8 @@
 
 <title>Open Datasets</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -53,6 +53,7 @@
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -73,6 +74,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -298,7 +302,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -343,7 +347,7 @@ div.tocify {
   <a href="Outreach.html">Outreach</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Projects
      
     <span class="caret"></span>
@@ -359,7 +363,7 @@ div.tocify {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Open source
      
     <span class="caret"></span>
@@ -389,18 +393,44 @@ div.tocify {
 
 
 <hr />
-<div id="datasets-used-in-research-and-published-as-excel-files" class="section level2">
+<div id="datasets-used-in-research-and-published-as-excel-files"
+class="section level2">
 <h2>Datasets used in research and published as excel files</h2>
 <hr />
-<p>Data are freely available for use. Its reuse in scientific publications, reports, etc. requires citation of its correspondent publication to acknowledge the authors.</p>
+<p>Data are freely available for use. Its reuse in scientific
+publications, reports, etc. requires citation of its correspondent
+publication to acknowledge the authors.</p>
 <p><img src="files/Screenshot%2059.png" style="width:70%"></p>
 <hr />
 <ul>
-<li><p>Dataset of occurrences of seagrass species used in the paper: Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin driven by climate change. Published as Supplementary data (Appendix A), check <a href="https://www.sciencedirect.com/science/article/pii/S2351989421004406?via%3Dihub">here</a></p></li>
-<li><p>Raw abundance waterbird data surveyed in saltpans of Ria Formosa during four seasons. Published as Supplementary data (Appendix A) in <a href="https://www.sciencedirect.com/science/article/pii/S1574954121001552#s0075">“Seasonal variations of waterbird ecological networks under different saltpans management”</a>.</p></li>
-<li><p>Dataset of occurrences compiled for <em>Cymodocea nodosa</em>. Published as <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401">Supporting Information - Table S1</a> of the manuscript entitled “Dramatic loss of seagrass habitat under projected climate change in the Mediterranean Sea”.</p></li>
-<li><p>Dataset of occurrences compiled for <em>Posidonia oceanica</em>. Published as <a href="https://www.nature.com/articles/s41598-017-03006-2#Sec10">Electronic supplementary material - Dataset 1</a> of the manuscript entitled “Palaeoclimatic conditions in the Mediterranean explain genetic diversity of <em>Posidonia oceanica</em> seagrass meadows”.</p></li>
-<li><p>Dataset of occurrences compiled for <em>Sargassum muticum</em>. Published as <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12910">Supporting information - AppendixS1</a> of the manuscript entitled “Integrating reproductive phenology in ecological niche models changed the predicted future ranges of a marine invader”.</p></li>
+<li><p>Dataset of occurrences of seagrass species used in the paper:
+Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin
+driven by climate change. Published as Supplementary data (Appendix A),
+check <a
+href="https://www.sciencedirect.com/science/article/pii/S2351989421004406?via%3Dihub">here</a></p></li>
+<li><p>Raw abundance waterbird data surveyed in saltpans of Ria Formosa
+during four seasons. Published as Supplementary data (Appendix A) in <a
+href="https://www.sciencedirect.com/science/article/pii/S1574954121001552#s0075">“Seasonal
+variations of waterbird ecological networks under different saltpans
+management”</a>.</p></li>
+<li><p>Dataset of occurrences compiled for <em>Cymodocea nodosa</em>.
+Published as <a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14401">Supporting
+Information - Table S1</a> of the manuscript entitled “Dramatic loss of
+seagrass habitat under projected climate change in the Mediterranean
+Sea”.</p></li>
+<li><p>Dataset of occurrences compiled for <em>Posidonia oceanica</em>.
+Published as <a
+href="https://www.nature.com/articles/s41598-017-03006-2#Sec10">Electronic
+supplementary material - Dataset 1</a> of the manuscript entitled
+“Palaeoclimatic conditions in the Mediterranean explain genetic
+diversity of <em>Posidonia oceanica</em> seagrass meadows”.</p></li>
+<li><p>Dataset of occurrences compiled for <em>Sargassum muticum</em>.
+Published as <a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12910">Supporting
+information - AppendixS1</a> of the manuscript entitled “Integrating
+reproductive phenology in ecological niche models changed the predicted
+future ranges of a marine invader”.</p></li>
 </ul>
 </div>
 

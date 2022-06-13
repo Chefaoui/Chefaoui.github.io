@@ -13,8 +13,8 @@
 
 <title>ROSA M. CHEFAOUI, PhD</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -53,6 +53,7 @@
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -73,6 +74,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -298,7 +302,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -343,7 +347,7 @@ div.tocify {
   <a href="Outreach.html">Outreach</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Projects
      
     <span class="caret"></span>
@@ -359,7 +363,7 @@ div.tocify {
   </ul>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Open source
      
     <span class="caret"></span>
@@ -393,47 +397,100 @@ div.tocify {
 <h2><strong>About me</strong></h2>
 <hr />
 <p><img src="files/DSC_1620.JPG" style="width:50%"></p>
-<p>I am an ecologist focused on marine, coastal and terrestrial environments. I am currently a Marie Skłodowska-Curie postdoctoral fellow at the Universidad Rey Juan Carlos (Madrid, Spain). I am interested in the effects of climate change on marine benthic species, from genetic diversity to spatial and temporal dynamics of communities. I am also interested in the application of multidisciplinary approaches involving physiological experiments, field surveys and varied analytical methods. I am leading the European Union’s Horizon 2020 funded <strong>project MarHot</strong>. This project will provide an innovative framework to integrate physiological thermal limits into species distribution models in order to anticipate future redistributions of marine coastal species. Find out more about MarHot <a href="https://chefaoui.github.io/MarHot.html">here</a>.</p>
+<p>I am an ecologist focused on marine, coastal and terrestrial
+environments. I am currently a Marie Skłodowska-Curie postdoctoral
+fellow at the Universidad Rey Juan Carlos (Madrid, Spain). I am
+interested in the effects of climate change on marine benthic species,
+from genetic diversity to spatial and temporal dynamics of communities.
+I am also interested in the application of multidisciplinary approaches
+involving physiological experiments, field surveys and varied analytical
+methods. I am leading the European Union’s Horizon 2020 funded
+<strong>project MarHot</strong>. This project will provide an innovative
+framework to integrate physiological thermal limits into species
+distribution models in order to anticipate future redistributions of
+marine coastal species. Find out more about MarHot <a
+href="https://chefaoui.github.io/MarHot.html">here</a>.</p>
 <hr />
 </div>
 <div id="short-cv" class="section level2">
 <h2><strong>Short CV</strong></h2>
 <hr />
-<p>1997 BsC in Biological Sciences, Universidad Autónoma de Madrid (Spain)</p>
-<p>1998 MSc in Education and Pedagogy, Universidad Complutense de Madrid (Spain)</p>
-<p>1998-2013 Public High School Teacher of Biology and Geology. Madrid (Spain)</p>
+<p>1997 BsC in Biological Sciences, Universidad Autónoma de Madrid
+(Spain)</p>
+<p>1998 MSc in Education and Pedagogy, Universidad Complutense de Madrid
+(Spain)</p>
+<p>1998-2013 Public High School Teacher of Biology and Geology. Madrid
+(Spain)</p>
 <p>2010 PhD Thesis – Universidad Autónoma de Madrid (Spain)</p>
-<p>2013-2018 Post-doc fellowship – Centro de Ciências do Mar (CCMAR). (Portugal)</p>
-<p>2018-2020 Research Assistant – CCMAR, Universidade do Algarve (Portugal)</p>
-<p>2021-2022 Marie Skłodowska-Curie Postdoc Fellow – Universidad Rey Juan Carlos (Spain)</p>
+<p>2013-2018 Post-doc fellowship – Centro de Ciências do Mar (CCMAR).
+(Portugal)</p>
+<p>2018-2020 Research Assistant – CCMAR, Universidade do Algarve
+(Portugal)</p>
+<p>2021-2022 Marie Skłodowska-Curie Postdoc Fellow – Universidad Rey
+Juan Carlos (Spain)</p>
 <hr />
 </div>
 <div id="research-lines" class="section level2">
 <h2><strong>Research Lines</strong></h2>
 <hr />
-<div id="mechanistic-models-applied-to-climate-change-studies" class="section level3">
+<div id="mechanistic-models-applied-to-climate-change-studies"
+class="section level3">
 <h3>Mechanistic models applied to climate change studies</h3>
-<p>There is a need to integrate physiological data better to improve the prediction of future distributional shifts at local and regional scales. My current research is mainly linked to MarHot and Phymacro European Union’s Horizon 2020 funded projects and it is focused on the integration of physiological experiments with SDMs to investigate further mechanistic models taking marine foundational algae and kelps as model species. I will develop open software in R to make the mechanistic framework reproducible for all scientists.</p>
+<p>There is a need to integrate physiological data better to improve the
+prediction of future distributional shifts at local and regional scales.
+My current research is mainly linked to MarHot and Phymacro European
+Union’s Horizon 2020 funded projects and it is focused on the
+integration of physiological experiments with SDMs to investigate
+further mechanistic models taking marine foundational algae and kelps as
+model species. I will develop open software in R to make the mechanistic
+framework reproducible for all scientists.</p>
 <p><img src="files/Fig1_feb19.png" style="width:80%"></p>
-<p><em>Sargassum muticum distribution in the Northern Hemisphere along its native range in Asia (right), and invaded European (middle) and North American (left) ranges.</em></p>
+<p><em>Sargassum muticum distribution in the Northern Hemisphere along
+its native range in Asia (right), and invaded European (middle) and
+North American (left) ranges.</em></p>
 </div>
-<div id="patterns-of-genetic-diversity-and-range-shifts-of-marine-species" class="section level3">
-<h3>Patterns of genetic diversity and range shifts of marine species</h3>
-<p>My post-doctoral <strong>project INTERSEA</strong> allowed me to investigate the response of marine species to environmental changes, integrating spatial analysis, niche modelling, and genetic data. This project was developed while I was FCT postdoctoral researcher and Research Assistant afterwards at the Centre of Marine Sciences (CCMAR; University of Algarve, Portugal). I analyzed the predicted effects of climate change on the loss of genetic diversity of seagrass and seaweed populations. I used reconstructions of Last Glacial Maximum climate to identify past coastal regions acting as glacial refugia and areas of persistence, revealing now genetic signatures that are the result of accumulated genetic diversity.</p>
+<div
+id="patterns-of-genetic-diversity-and-range-shifts-of-marine-species"
+class="section level3">
+<h3>Patterns of genetic diversity and range shifts of marine
+species</h3>
+<p>My post-doctoral <strong>project INTERSEA</strong> allowed me to
+investigate the response of marine species to environmental changes,
+integrating spatial analysis, niche modelling, and genetic data. This
+project was developed while I was FCT postdoctoral researcher and
+Research Assistant afterwards at the Centre of Marine Sciences (CCMAR;
+University of Algarve, Portugal). I analyzed the predicted effects of
+climate change on the loss of genetic diversity of seagrass and seaweed
+populations. I used reconstructions of Last Glacial Maximum climate to
+identify past coastal regions acting as glacial refugia and areas of
+persistence, revealing now genetic signatures that are the result of
+accumulated genetic diversity.</p>
 <p><img src="files/P.oceanica_press%20release%20CCMAR.JPG" style="width:60%"></p>
 <p><em>Posidonia oceanica meadow. Photo credit: RM Chefaoui</em></p>
 </div>
-<div id="invasion-process-and-prediction-of-invasion-risk" class="section level3">
+<div id="invasion-process-and-prediction-of-invasion-risk"
+class="section level3">
 <h3>Invasion process and prediction of invasion risk</h3>
-<p>I have paid particular attention to the study of invasive species by focusing on the effects of invasive species on the composition of communities, also by modelling their niche shift and future risk of invasion.</p>
+<p>I have paid particular attention to the study of invasive species by
+focusing on the effects of invasive species on the composition of
+communities, also by modelling their niche shift and future risk of
+invasion.</p>
 <p><img src="files/Fig.5_Shifts.jpeg" style="width:100%"></p>
-<p><em>Comparison of niche dynamics of the invasive lineages of Caulerpa taxifolia</em></p>
+<p><em>Comparison of niche dynamics of the invasive lineages of Caulerpa
+taxifolia</em></p>
 </div>
-<div id="spatial-and-temporal-dynamics-of-coastal-communities" class="section level3">
+<div id="spatial-and-temporal-dynamics-of-coastal-communities"
+class="section level3">
 <h3>Spatial and temporal dynamics of coastal communities</h3>
-<p>In this research line, I have incorporated field work of diverse coastal environments (dune habitats, saltworks, etc…). I explored a better understanding of the spatial variation of community composition data. The data compiled during these campaings will result in several publications on spatial variation in abundance both in marine and terrestrial realms.</p>
+<p>In this research line, I have incorporated field work of diverse
+coastal environments (dune habitats, saltworks, etc…). I explored a
+better understanding of the spatial variation of community composition
+data. The data compiled during these campaings will result in several
+publications on spatial variation in abundance both in marine and
+terrestrial realms.</p>
 <p><img src="files/DSC_0009.JPG" style="width:60%"></p>
-<p><em>Sampling halophytic plant communities in saltworks of the Ria Formosa, Portugal. Photo credit: Sergio Chozas</em></p>
+<p><em>Sampling halophytic plant communities in saltworks of the Ria
+Formosa, Portugal. Photo credit: Sergio Chozas</em></p>
 <hr />
 </div>
 </div>
@@ -441,8 +498,10 @@ div.tocify {
 <h2><strong>Contact</strong></h2>
 <hr />
 <p><strong>Rosa M. Chefaoui</strong></p>
-<p><a href="http://biodiversos.org/">Area of Biodiversity and Conservation</a></p>
-<p><em>Universidad Rey Juan Carlos</em>, <em>Calle Tulipán s/n</em>, <em>28933 Móstoles, Madrid</em>.</p>
+<p><a href="http://biodiversos.org/">Area of Biodiversity and
+Conservation</a></p>
+<p><em>Universidad Rey Juan Carlos</em>, <em>Calle Tulipán s/n</em>,
+<em>28933 Móstoles, Madrid</em>.</p>
 </div>
 
 
