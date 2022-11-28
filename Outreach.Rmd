@@ -12,6 +12,7 @@ output:
 
 ---
 
+<<<<<<< HEAD
 ## SEMINAR at the Museo Nacional de Ciencias Naturales 
 Madrid (25 Nov. 2022)
 
@@ -19,6 +20,12 @@ Madrid (25 Nov. 2022)
 'Effects of climate change on marine macrophytes'. Temporal analysis of warming-driven distributional changes in macrophytes. 
 
 
+=======
+## SEMINAR at the MUSEO NACIONAL DE CIENCIAS NATURALES, Madrid (25 Nov. 2022)
+
+'Effects of climate change on marine macrophytes'. Temporal analysis of warming-driven distributional changes in macrophytes. 
+
+>>>>>>> e7c0e1a1ee66483c9960d94e5a280fb2b3566e20
 The talk can be seen at [YouTube](https://www.youtube.com/watch?v=iRdZHncZZPU&ab_channel=MuseoNacionaldeCienciasNaturales%28MNCN-CSIC%29)
 
 
@@ -38,9 +45,13 @@ Symposium and have the opportunity to exchange ideas with such amazing marine ec
 
 ---
 
+<<<<<<< HEAD
 ## WORKSHOP: 
 
 Identifying Priorities for Conservation, Monitoring and Research of Seagrass Ecosystems in Europe (22-24 March 2022)
+=======
+## WORKSHOP: Identifying Priorities for Conservation, Monitoring and Research of Seagrass Ecosystems in Europe (22-24 March 2022)
+>>>>>>> e7c0e1a1ee66483c9960d94e5a280fb2b3566e20
 
 Organized in the context of EuroSea Project. 40 participants from 27
 European countries. [Link](https://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=30378)
