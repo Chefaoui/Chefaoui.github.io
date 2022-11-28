@@ -16,12 +16,16 @@ navbar:
     - text: "Projects"
       href: Projects.html
       menu:
-        - text: "Recent EU funded Projects"
+        - text: "EU funded Projects"
         - text: "MarHot"
           href: MarHot.html
         - text: "Phymacro"
           href: Phymacro.html
-        
+        - text: "National projects"
+        - text: "PERSIST"
+          href: PERSIST.html
+        - text: "IntermaRest"
+          href: IntermaRest.html
     - text: "Open source"
       href: Open source.html
       menu:
