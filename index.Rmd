@@ -17,27 +17,27 @@ footer.html:
 
 <img src="files/DSC_1620.JPG" style="width:50%">
 
-I am an ecologist focused on marine, coastal and terrestrial environments. I am currently a Marie Skłodowska-Curie postdoctoral fellow at the Universidad Rey Juan Carlos (Madrid, Spain). I am interested in the effects of climate change on marine benthic species, from genetic diversity to spatial and temporal dynamics of communities. I am also interested in the application of multidisciplinary approaches involving physiological experiments, field surveys and varied analytical methods. I am leading the European Union's Horizon 2020 funded **project MarHot**. This project will provide an innovative framework to integrate physiological thermal limits into species distribution models in order to anticipate future redistributions of marine coastal species. Find out more about MarHot [here](https://chefaoui.github.io/MarHot.html).
+I am a researcher in the [Area of Biodiversity and Conservation](https://biodiversos.org/) interested in the effects of climate change on marine benthic species. I work at the interface of coastal ecology and biogeography, integrating spatial analyses with field and physiological experiments. 
 
 ***
 ## **Short CV**
 ***
-  
-1997 BsC in Biological Sciences, Universidad Autónoma de Madrid (Spain)
 
-1998 MSc in Education and Pedagogy, Universidad Complutense de Madrid (Spain)
-
-1998-2013 Public High School Teacher of Biology and Geology. Madrid (Spain)
-
-2010 PhD Thesis – Universidad Autónoma de Madrid (Spain)
-
-2013-2018 Post-doc fellowship – Centro de Ciências do Mar (CCMAR). (Portugal)
-
-2018-2020 Research Assistant – CCMAR, Universidade do Algarve (Portugal)
+2023-  Distinguished Researcher – Universidad Rey Juan Carlos (Spain)
 
 2021-2022 Marie Skłodowska-Curie Postdoc Fellow – Universidad Rey Juan Carlos (Spain)
 
+2018-2020 Research Assistant – CCMAR, Universidade do Algarve (Portugal)
 
+2013-2018 Post-doc fellowship FCT – Centro de Ciências do Mar (CCMAR). (Portugal)
+
+2010 PhD Thesis – Universidad Autónoma de Madrid (Spain)
+
+1998-2013 Public High School Teacher of Biology and Geology. Madrid (Spain)
+
+1998 MSc in Education and Pedagogy, Universidad Complutense de Madrid (Spain)
+
+1997 BsC in Biological Sciences, Universidad Autónoma de Madrid (Spain)
 
 
 *** 

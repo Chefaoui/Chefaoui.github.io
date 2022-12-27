@@ -9,7 +9,15 @@ output:
 ---
 ***
 
-## PERSIST   
+<img src="files/logo_persist_png.png" style="width:95%">
+
 ***
+## 2023-2024 - PERSIST - 
+
+Poblaciones de macroalgas en peligro de desaparición local: una evaluación multiescalar. 
+
+Proyectos de Generación de Conocimiento 2021 (PID2021-124179OA-
+I00). Ministerio de Ciencia e Innovación. Universidad Rey Juan Carlos y Universidad de
+Oviedo.
 
  
