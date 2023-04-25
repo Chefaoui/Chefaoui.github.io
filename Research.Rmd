@@ -12,7 +12,7 @@ Publications ordered by thematic lines. To see all publications chronologically 
 
 ^e^ for equal contribution as first author
 
-*(Last update: Dec. 2022)*
+*(Last update: April 2023)*
 
 ***
 
@@ -57,6 +57,8 @@ case of *Cymodocea nodosa* (Mediterranean-Atlantic). *Estuaries and Coasts* 39:
 
 ****
 ## Spatial and temporal dynamics of coastal communities
+
+Chozas, S., **Chefaoui, R. M.**, Correia, O., Santos, A. M., & Hortal, J. 2023. Geographical shifts in the successional dynamics of inland dune shrub communities. *Ecology and Evolution*, 13(2), e9828. https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9828
 
 **Chefaoui, R.M.** 2021. Seasonal variations of waterbird ecological networks under different saltpans management. *Ecological Informatics* 64: 101364. https://doi.org/10.1016/j.ecoinf.2021.101364 
 

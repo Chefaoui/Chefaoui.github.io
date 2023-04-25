@@ -18,6 +18,25 @@ This project is developed at the University Rey Juan Carlos (Madrid, Spain) in c
 
 ***
 
+## The MarHot project VIDEO
+
+Introductory video of the MarHot project, aimed at the general public.
+
+[LINK](https://www.youtube.com/watch?v=ERs-ZX9pFQM&ab_channel=RosaChefaoui) to YouTube
+
+<img src="files/foto_video.png" style="width:90%">
+
+
+***
+## Final Degree Project
+
+**Ismael Zarouali** is collaborating with MarHot investigating the effect of climate
+change on marine algae photosynthesis.
+
+
+<img src="files/iSMAEL.jpg" style="width:20%">
+
+***
 
 ## MarHot in **IBS Vancouver 2022**
 
