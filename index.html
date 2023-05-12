@@ -13,7 +13,7 @@
 
 <title>ROSA M. CHEFAOUI, PhD</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -33,8 +33,8 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -134,11 +134,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -167,8 +171,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -176,16 +180,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -414,20 +411,22 @@ physiological experiments.</p>
 <div id="short-cv" class="section level2">
 <h2><strong>Short CV</strong></h2>
 <hr />
-<p>2023- Distinguished Researcher – Universidad Rey Juan Carlos
+<p>05/2023-Present: Assistant Professor – Universidad Rey Juan Carlos
 (Spain)</p>
-<p>2021-2022 Marie Skłodowska-Curie Postdoc Fellow – Universidad Rey
+<p>01/2023-04/2023: Distinguished Researcher – Universidad Rey Juan
+Carlos (Spain)</p>
+<p>2021-2022: Marie Skłodowska-Curie Postdoc Fellow – Universidad Rey
 Juan Carlos (Spain)</p>
-<p>2018-2020 Research Assistant – CCMAR, Universidade do Algarve
+<p>2018-2020: Research Assistant – CCMAR, Universidade do Algarve
 (Portugal)</p>
-<p>2013-2018 Post-doc fellowship FCT – Centro de Ciências do Mar
+<p>2013-2018: Post-doc fellowship FCT – Centro de Ciências do Mar
 (CCMAR). (Portugal)</p>
-<p>2010 PhD Thesis – Universidad Autónoma de Madrid (Spain)</p>
-<p>1998-2013 Public High School Teacher of Biology and Geology. Madrid
+<p>2010: PhD Thesis – Universidad Autónoma de Madrid (Spain)</p>
+<p>1998-2013: Public High School Teacher of Biology and Geology. Madrid
 (Spain)</p>
-<p>1998 MSc in Education and Pedagogy, Universidad Complutense de Madrid
-(Spain)</p>
-<p>1997 BsC in Biological Sciences, Universidad Autónoma de Madrid
+<p>1998: MSc in Education and Pedagogy, Universidad Complutense de
+Madrid (Spain)</p>
+<p>1997: BsC in Biological Sciences, Universidad Autónoma de Madrid
 (Spain)</p>
 <hr />
 </div>
