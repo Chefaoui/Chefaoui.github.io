@@ -1,5 +1,5 @@
 ---
-title: "**NEWS**"
+title: "**DISSEMINATION AND COMMUNICATION**"
 output: 
   html_document: 
     highlight: espresso
@@ -20,9 +20,23 @@ Madrid (25 Nov. 2022)
 'Effects of climate change on marine macrophytes'. Temporal analysis of warming-driven distributional changes in macrophytes. 
 
 
-The talk can be seen at [YouTube](https://www.youtube.com/watch?v=iRdZHncZZPU&ab_channel=MuseoNacionaldeCienciasNaturales%28MNCN-CSIC%29)
+The talk can be seen at [YouTube link](https://www.youtube.com/watch?v=iRdZHncZZPU&ab_channel=MuseoNacionaldeCienciasNaturales%28MNCN-CSIC%29)
 
 <img src="files/Slide1.jpg" style="width:75%">
+
+---
+
+## INTERVIEW in "Generación Dos Punto Cero"
+I was interviewed by students from the "Facultad de Ciencias de la Información, Universidad Complutense de Madrid" about Climate Change. [YouTube link](https://www.youtube.com/watch?v=3xdErWa9Zx4) (Mayo, 2024)
+
+---
+
+## Biodiversos Ecological Symposium (BES 2023)
+
+Happy to have presented my persepective on the research career experience in "Biogeografía Integradora y Cambio Global en Ecosistemas Costeros" during the [Ecological Symposium](https://x.com/SymposiumBES/status/1646424506142015488) nicely organized by the predocs of the "Área de Biodiversidad y Conservación" of Universad Rey Juan Carlos.
+
+<img src="files/bes.jpeg" style="width:75%">
+
 
 ---
 
@@ -40,19 +54,6 @@ Symposium and have the opportunity to exchange ideas with such amazing marine ec
 
 ---
 
-
-## WORKSHOP: 
-
-Identifying Priorities for Conservation, Monitoring and Research of Seagrass Ecosystems in Europe (22-24 March 2022)
-
-
-Organized in the context of EuroSea Project. 40 participants from 27
-European countries. [Link](https://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=30378)
-
-<img src="files/logo.png" style="width:50%">
-
----
-
 ## MADRID ES CIENCIA (IFEMA, Madrid, 2-5 March 2022)
 
 The Area of Biodiversity and Conservation (Biodiversos) was at the stand of the University Rey Juan Carlos and we could explain our research to many students.
@@ -63,6 +64,20 @@ The Area of Biodiversity and Conservation (Biodiversos) was at the stand of the 
 
 
 ---
+
+## WORKSHOP 
+
+Identifying Priorities for Conservation, Monitoring and Research of Seagrass Ecosystems in Europe (22-24 March 2022)
+
+Organized in the context of EuroSea Project. 40 participants from 27 European countries.
+
+[Link to GOOS](https://www.goosocean.org/index.php?option=com_oe&task=viewDocumentRecord&docID=30378)
+
+<img src="files/logo.png" style="width:50%">
+
+
+---
+
 
 ## Paper on the future of seagrasses in Banc d'Arguin (Mauritania)
 

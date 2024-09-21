@@ -11,6 +11,8 @@ navbar:
       href: index.html
     - text: "Publications"
       href: Research.html
+    - text: "Teaching"
+      href: Teaching.html
     - text: "Outreach"
       href: Outreach.html
     - text: "Projects"
@@ -22,6 +24,8 @@ navbar:
         - text: "Phymacro"
           href: Phymacro.html
         - text: "National projects"
+        - text: "Ramon y Cajal"
+          href: Ramon-y-Cajal.html
         - text: "PERSIST"
           href: PERSIST.html
         - text: "IntermaRest"
@@ -39,13 +43,14 @@ navbar:
   left:
     - # text: mail
       icon: fa-envelope fa-lg # use the fa-lg (33% increase), fa-2x, fa-3x, fa-4x, or fa-5x classes
-      href: mailto:<rosa.chef@gmail.com>
+      href: mailto:<rosa.chefaoui@urjc.es>
     - icon: fab fa-github fa-lg
       href: https://github.com/Chefaoui
     - icon: fab fa-twitter fa-lg
       href: https://twitter.com/RosaChefaoui
     - icon: fa-graduation-cap fa-lg
       href: https://scholar.google.com/citations?user=gqAKNXcAAAAJ&hl=es
+      
       
 
   output:

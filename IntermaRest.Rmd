@@ -12,11 +12,39 @@ output:
 <img src="files/LOGO_intermarest.png" style="width:95%">
 
 ***
-## 2023-2024 - InterMaREst - 
+## 2023-2025 - InterMaREst - 
 
 Preservación de poblaciones marginales de macroalgas intermareales generadoras de hábitat a través de datos digitales y prácticas de restauración in situ. 
 
 Proyectos de Transición Ecológica y Transición Digital 2021 (TED2021-129997A-I00). Ministerio de Ciencia e Innovación. Universidad Rey Juan Carlos y Universidad de Oviedo. 
+
+<p float="left">
+  <img src="files/grup.jpg" style="width:45%"> 
+  <img src="files/grup2.jpeg" style="width:45%">
+</p>
+
+
+
+***
+## DISSEMINATION
+
+José Luis Acuña (Universidad de Oviedo) outlined IntermaRest objectives at the "XV Jornadas de Ecología Marina (21-25 Noviembre 2023)". 
+
+<p float="left">
+  <img src="files/Ac2.jpg" style="width:45%"> 
+  <img src="files/Ac1.jpg" style="width:45%">
+</p>
+
+***
+
+## InterMaRest technician 
+ 
+**Pelayo Rico** has joined InterMaRest... Welcome Pelayo!
+
+
+<img src="files/FOTO PERFIL.png" style="width:40%">
+
+
 
 ***
 
@@ -25,17 +53,7 @@ Proyectos de Transición Ecológica y Transición Digital 2021 (TED2021-129997A-
 We started exploring the fitness of macroalgae in January 2023
 
 
-<img src="files/muest.jpeg" style="width:55%">
-
-***
-
-## PERSIST technician 
- 
-**Pelayo Rico** has joined InterMaRest... Welcome Pelayo!
-
-
-<img src="files/FOTO PERFIL.png" style="width:40%">
-
+<img src="files/SAMPLING.jpeg" style="width:55%">
 
 
 ***

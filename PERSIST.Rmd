@@ -9,16 +9,39 @@ output:
 ---
 ***
 
-<img src="files/logo_persist_png.png" style="width:95%">
+  <img src="files/logo_persist_png.png" style="width:95%">
+ 
 
 ***
-## 2023-2024 - PERSIST - 
+## 2023-2025 - PERSIST - 
 
 Poblaciones de macroalgas en peligro de desaparición local: una evaluación multiescalar. 
 
 Proyectos de Generación de Conocimiento 2021 (PID2021-124179OA-
 I00). Ministerio de Ciencia e Innovación. Universidad Rey Juan Carlos y Universidad de
 Oviedo.
+
+<p float="left">
+  <img src="files/muestreo.jpeg" style="width:50%">
+  <img src="files/pers_sam.jpg" style="width:45%">
+</p>
+
+
+***
+## DISSEMINATION
+
+
+NEWS: Julio Arrontes (Universidad de Oviedo) gave an overview of our projects in the [news](https://www.eldiario.es/asturias/expertos-alertan-desaparicion-lechos-algas-cantabrico-preocupa-quiera-preocuparse_1_11526894.html)
+
+
+
+***
+
+PERSIST was presented to 4 y.o. students of CP Rafael Alberti during their Cultural Week
+
+<img src="files/alberti.png" style="width:40%">
+
+More info at [ceiprafaelalberti Instagram](https://www.instagram.com/p/C4p744Mtb1Q/?igsh=ZXpoNjM2b3V1YXVr&img_index=1) (in Spanish)
 
 
 ***

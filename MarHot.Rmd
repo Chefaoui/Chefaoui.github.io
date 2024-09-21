@@ -28,6 +28,14 @@ Introductory video of the MarHot project, aimed at the general public.
 
 
 ***
+## Oral Presentation at ASLO 2024
+
+I presented our preliminary results at ASLO 2024 (Madison, USA)
+
+<img src="files/aslo.jpg" style="width:50%">
+
+
+***
 ## Final Degree Project
 
 **Ismael Zarouali** is collaborating with MarHot investigating the effect of climate
@@ -63,18 +71,6 @@ It was a great pleasure to be among relevant leaders of the marine research (Joh
 
 The video exhibited can be viewed [here](https://www.instagram.com/tv/CapYjHeAYbX/?utm_medium=copy_link)
 
----
-## The **Aquatic SDM** Workshop
-
-+ The ["Aquatic Species Distribution Modelling Workshop"](https://www2.ciimar.up.pt/events.php?id=284) took place in December 2021. 
-
-<img src="files/curso.JPG" style="width:50%">
-
-We taught many colleagues interested in aquatic applications of SDMs.
-Thanks to MarHot and Seeingshore projects.
-
-<img src="files/curso1.jpeg" style="width:50%">
-<img src="files/curso2.jpeg" style="width:50%">
 
 
 

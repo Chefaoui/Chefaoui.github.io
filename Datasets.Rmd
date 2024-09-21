@@ -20,6 +20,8 @@ Data are freely available for use. Its reuse in scientific publications, reports
 
 ***
 
++ The data that support the findings of the paper entitled ["Temporal variability of sea surface temperature affects marine macrophytes range retractions as well as gradual warming"](https://www.nature.com/articles/s41598-024-64745-7) are openly available in Zenodo at https://doi.org/10.5281/zenodo.8414685 (reference number md5:a07a87983a73f1ccdef85417ec652b8a).
+
 + Dataset of occurrences of seagrass species used in the paper: Predicted regime shift in the seagrass ecosystem of the Gulf of Arguin driven by climate change. Published as Supplementary data (Appendix A), check [here](https://www.sciencedirect.com/science/article/pii/S2351989421004406?via%3Dihub)
 
 + Raw abundance waterbird data surveyed in saltpans of Ria Formosa during four seasons. Published as Supplementary data (Appendix A) in ["Seasonal variations of waterbird ecological networks under different saltpans management"](https://www.sciencedirect.com/science/article/pii/S1574954121001552#s0075).
