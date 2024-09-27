@@ -1,0 +1,25 @@
+---
+title: "**Opportunities**"
+output: 
+  html_document: 
+    highlight: espresso
+    theme: flatly
+    toc: yes
+    toc_float: yes
+
+code_download: TRUE
+---
+
+***
+## Prospective undergrad, PhD students and postdocs
+
+In 2024 I am starting my "Ramón y Cajal" fellowship, please feel free to email me if you are interested in any [line of research](https://chefaoui.github.io/index.html#Research_Lines).
+
+Sending your CV and a short letter explaining how our research interests could fit would be ideal.
+
+We could attempt some of the European Union, Comunidad de Madrid, Spanish Ministry, URJC and/or IICG job opportunities.
+
+<img src="files/job-search.jpg" style="width:50%">
+
+
+***
