@@ -23,6 +23,7 @@ navbar:
           href: MarHot.html
         - text: "Phymacro"
           href: Phymacro.html
+        - text: "---------"
         - text: "National projects"
         - text: "Ramon y Cajal"
           href: Ramon-y-Cajal.html
@@ -40,6 +41,10 @@ navbar:
           href: Code.html
        # - text: "Packages"
        #   href: Packages.html
+    - text: "Others"
+      href: Others.html
+       
+       
   left:
     - # text: mail
       icon: fa-envelope fa-lg # use the fa-lg (33% increase), fa-2x, fa-3x, fa-4x, or fa-5x classes
