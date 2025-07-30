@@ -23,10 +23,36 @@ Proyectos de Transición Ecológica y Transición Digital 2021 (TED2021-129997A-
   <img src="files/grup2.jpeg" style="width:45%">
 </p>
 
+***
 
+## Big exclusion cages in Villaviciosa Estuary (Asturias, Spain)
+
+We have installed three exclusion cages to preserve and restore Ascophyllum nodosum populations. 
+
+Drone imagery will help in our surveys in collaboration with the Universidad de Oviedo Team (special thanks to Carlos Guardado!)
+
+<p float="left">
+  <img src="files/cerc_dron.jpg" style="width:45%"> 
+  <img src="files/dro.jpg" style="width:45%">
+</p>
+
+<p float="left">
+<img src="files/cerc3.jpeg" style="width:45%">
+<img src="files/dron2.JPG" style="width:45%">
+</p>
 
 ***
 ## DISSEMINATION
+
+InterMaRest project has exhibited **explanatory panels** showing some of our herbivory experiments and macroalgae restoration actions at the "Centro de Interpretación RNP de la Ría de Villaviciosa" in Asturias. 
+
+Come and visit!
+
+<img src="files/carteles_centro_gente.jpg" style="width:40%">
+
+***
+
+## XV Jornadas de Ecología Marina 
 
 José Luis Acuña (Universidad de Oviedo) outlined IntermaRest objectives at the "XV Jornadas de Ecología Marina (21-25 Noviembre 2023)". 
 
@@ -35,16 +61,19 @@ José Luis Acuña (Universidad de Oviedo) outlined IntermaRest objectives at the
   <img src="files/Ac1.jpg" style="width:45%">
 </p>
 
+
+
+
 ***
 
-## InterMaRest technician 
+## InterMaRest new team members 
  
-**Pelayo Rico** has joined InterMaRest... Welcome Pelayo!
+During InterMaRest **Pelayo Rico** (technician) and **Carlos García-Lanchares** (postdoc) joined the URJC team
 
-
+<p float="left">
 <img src="files/FOTO PERFIL.png" style="width:40%">
-
-
+<img src="files/carlos_garcia_lanchares.jpeg" style="width:40%">
+</p>
 
 ***
 

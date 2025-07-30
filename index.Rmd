@@ -16,7 +16,7 @@ footer.html: <p>Copyright &copy; 2021 Skynet, Inc. All rights reserved.</p>
 
 <img src="files/DSC_1620.JPG" style="width:50%">
 
-I am professor and researcher at the ["Instituto de Investigación en Cambio Global (IICG-URJC)"](https://iicg-urjc.es/rosa-maria-chefaoui-diaz/) and the "Departamento de Biología y Geología, Física y Química Inorgánica" of the [Universidad Rey Juan Carlos](https://biodiversos.org/). I am interested in the effects of climate change on marine benthic species. I work at the interface of coastal ecology and biogeography, integrating modelling, spatial analyses (using GIS, thermal, drone images...) and field and physiological experiments. 
+I am a professor and researcher at the ["Instituto de Investigación en Cambio Global de la Universida Rey Juan Carlos (IICG-URJC)"](https://iicg-urjc.es/rosa-maria-chefaoui-diaz/) working in the [Area of Biodiversity and Conservation](https://biodiversos.org/). Currently, my research focuses on the effects of climate change on marine benthic species. I work at the interface of coastal ecology and biogeography, integrating modelling, spatial analyses (using GIS, thermal and drone imagery...), as well as field and physiological experiments. 
 
 ***
 ## **Short CV**

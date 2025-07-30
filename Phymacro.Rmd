@@ -33,10 +33,13 @@ Phymacro experiments were run at [CIIMAR - Interdisciplinary Centre of Marine an
 
 ***
 
-### **Results**
+**Results**
 
-(coming soon)
+Results from the project were presented at the ASLO 2024 Meeting (Madison, USA)
+
+
+<img src="files/aslo.jpg" style="width:50%">
  
  
- 
+***
   <img src="files/flag_yellow_high.jpg" style="width:10%"> “The research leading to these results received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 730984, ASSEMBLE Plus project”. 
