@@ -25,7 +25,9 @@ navbar:
           href: Phymacro.html
         - text: "---------"
         - text: "National projects"
-        - text: "Ramon y Cajal"
+        - text: "MARISCAWEB"
+          href: MARISCAWEB.html
+        - text: "Ramón y Cajal"
           href: Ramon-y-Cajal.html
         - text: "PERSIST"
           href: PERSIST.html
@@ -41,7 +43,7 @@ navbar:
           href: Code.html
        # - text: "Packages"
        #   href: Packages.html
-    - text: "Others"
+    - text: "Collaboration"
       href: Others.html
        
        

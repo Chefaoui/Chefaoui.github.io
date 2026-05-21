@@ -1,5 +1,5 @@
 ---
-title: "**Opportunities**"
+title: "**Collaboration**"
 output: 
   html_document: 
     highlight: espresso
@@ -11,9 +11,17 @@ code_download: TRUE
 ---
 
 ***
-## Prospective undergrad, PhD students and postdocs
+## Undergrad and Master thesis 
 
-In 2024 I am starting my "Ramón y Cajal" fellowship, please feel free to email me if you are interested in any [line of research](https://chefaoui.github.io/index.html#Research_Lines).
+
+I am interested in supervising and collaborating with students who are motivated by research. If you are planning to undertake a Bachelor’s or Master’s thesis (TFG, TFM, in spanish), I would be delighted to discuss a potential research proposal linked to my research lines and tailored to your academic interests.
+
+I usually have topics related to my projects. Please, feel free to email me if you are interested in any [line of research](https://chefaoui.github.io/index.html#Research_Lines). Some of my students are shown here: [URJC Teaching web page](https://gestion2.urjc.es/pdi/ver/rosa.chefaoui) (see "Trabajos de fin de estudios").
+
+***
+## PhD students and Postdocs
+
+Please browse [Publications](https://chefaoui.github.io/Research.html) and [Projects]to find matching research interests.
 
 Sending your CV and a short letter explaining how our research interests could fit would be ideal.
 
